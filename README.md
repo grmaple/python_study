@@ -1,0 +1,2 @@
+# python_study
+这个项目主要用于学习python知识，通过python_100_days项目来进行学习
